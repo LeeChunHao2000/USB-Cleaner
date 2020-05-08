@@ -4,4 +4,4 @@ A command tool use to clean usb virus.
 
 ## Example
 
-![image](https://github.com/LeeChunHao2000/Auto_Alertor/blob/master/Line%20Bot.jpg)
+![image](https://github.com/LeeChunHao2000/USB-Cleaner/blob/master/%E5%9C%96%E7%89%87.jpg)
